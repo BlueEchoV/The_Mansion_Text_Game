@@ -1,5 +1,7 @@
 **Welcome to The Mansion!!!**
 
+Video Demo: https://youtu.be/7tI0f_2nmMU
+
 **Game Description**
 
 The Mansion is a short, atmospheric horror-themed text adventure game built entirely with web technologies (HTML, CSS, JavaScript/jQuery, and JSON).
@@ -8,7 +10,7 @@ After your car breaks down on a remote forest road, you spot a distant mansion a
 
 The experience is enhanced with thematic images, sound effects, and looping background music for added immersion.
 
-Play it in any modern browser—no installation required.
+Play it in any modern browser. No installation required.
 
 **Technical Goal**
 
