@@ -9,4 +9,5 @@ After your car breaks down on a remote forest road, you spot a distant mansion a
 Play it in any modern browser—no installation required.
 
 **Technical Goal**
+
 The primary technical objective was to create a lightweight, data-driven choose-your-own-adventure engine using only vanilla web technologies. All game content (states, narrative text, image paths, audio cues, background music, button logic, and branching paths) is stored in a single external JSON file (game.json). This separation allows the core JavaScript logic to remain generic and reusable, making it easy to modify or expand the story, add new states, or replace assets without touching the code. The project demonstrates state management, dynamic UI updates, timed audio playback, and simple multimedia integration in a single-page web application.
