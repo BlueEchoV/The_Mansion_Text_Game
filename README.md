@@ -1,10 +1,12 @@
-****Welcome to The Mansion!!!****
+**Welcome to The Mansion!!!**
 
 **Game Description**
 
 The Mansion is a short, atmospheric horror-themed text adventure game built entirely with web technologies (HTML, CSS, JavaScript/jQuery, and JSON).
 
-After your car breaks down on a remote forest road, you spot a distant mansion and must make a series of decisions to survive the night. Explore the grounds, encounter mysterious creatures, navigate haunted rooms, and face supernatural threats. Choices branch into multiple endings—some comical, some grim, and a few triumphant. The experience is enhanced with thematic images, sound effects, and looping background music for added immersion.
+After your car breaks down on a remote forest road, you spot a distant mansion and must make a series of decisions to survive the night. Explore the grounds, encounter mysterious creatures, navigate haunted rooms, and face supernatural threats. Player choices lead to branching paths with 12 distinct endings (4 successful escapes and 8 "Game Over" failures), ranging from comical to grim. 
+
+The experience is enhanced with thematic images, sound effects, and looping background music for added immersion.
 
 Play it in any modern browser—no installation required.
 
